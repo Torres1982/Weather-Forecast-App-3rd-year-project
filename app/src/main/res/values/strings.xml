@@ -1,0 +1,12 @@
+<resources>
+
+    <string name = "app_name"> Weather Forecast App </string>
+
+    <string-array name = "rain_array">
+        <item> Light Rain </item>
+        <item> Moderate Rain </item>
+        <item> Very Heavy Rain </item>
+        <item> Extreme Rain </item>
+    </string-array>
+
+</resources>
